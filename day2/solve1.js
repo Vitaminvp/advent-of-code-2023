@@ -1,5 +1,5 @@
 const solve = (input) => {
-  return input
+  return input;
 };
 
 module.exports = {
