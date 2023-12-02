@@ -37,4 +37,3 @@ module.exports = {
   result: 2239,
   exampleResult: 8,
 };
-
