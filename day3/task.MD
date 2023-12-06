@@ -31,7 +31,7 @@ In this schematic, two numbers are _not_ part numbers because they are not adjac
 
 Of course, the actual engine schematic is much larger. _What is the sum of all of the part numbers in the engine schematic?_
 
-Your puzzle answer was `467835`.
+Your puzzle answer was `519444`.
 
 \--- Part Two ---
 -----------------
@@ -64,4 +64,4 @@ In this schematic, there are _two_ gears. The first is in the top left; it has p
 
 _What is the sum of all of the gear ratios in your engine schematic?_
 
-Your puzzle answer was `467835`.
+Your puzzle answer was `74528807`.
