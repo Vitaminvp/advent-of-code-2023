@@ -1,4 +1,4 @@
-const getValue = (list, seed) => {
+const getSeedValue = (list, seed) => {
   for (let i = 0; i < list.length; i++) {
     const [destinationStart, sourceStart, size] = list[i].split(" ");
 
@@ -10,6 +10,7 @@ const getValue = (list, seed) => {
 
   return +seed;
 };
+
 const solve = (input) => {
   const [seedsStr, ...listMap] = input;
   const [, seedsNum] = seedsStr.split(": ");
@@ -37,8 +38,7 @@ const solve = (input) => {
       let result = seed;
 
       return Object.values(mapObject).reduce((acc, list) => {
-        console.log({ list });
-        result = getValue(list, result);
+        result = getSeedValue(list, result);
 
         return result;
       }, undefined);

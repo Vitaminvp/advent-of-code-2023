@@ -99,7 +99,7 @@ The gardener and his team want to get started as soon as possible, so they'd lik
 *   Seed `55`, soil `57`, fertilizer `57`, water `53`, light `46`, temperature `82`, humidity `82`, _location `86`_.
 *   Seed `13`, soil `13`, fertilizer `52`, water `41`, light `34`, temperature `34`, humidity `35`, _location `35`_.
 
-So, the lowest location number in this example is `_35_`.
+So, the lowest location number in this example is `35`.
 
 _What is the lowest location number that corresponds to any of the initial seed numbers?_
 
@@ -122,4 +122,4 @@ In the above example, the lowest location number can be obtained from seed numbe
 
 Consider all of the initial seed numbers listed in the ranges on the first line of the almanac. _What is the lowest location number that corresponds to any of the initial seed numbers?_
 
-Your puzzle answer was `?????`.
+Your puzzle answer was `69323688`.
