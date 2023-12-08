@@ -31,8 +31,6 @@ const solve = (input) => {
     return i;
   });
 
-  console.log(currentPositions);
-
   // least common multiple
   return currentPositions.reduce((prevNum, curNum) => {
     const greatestCommonDivisor = getGreatestCommonDivisor(prevNum, curNum);
