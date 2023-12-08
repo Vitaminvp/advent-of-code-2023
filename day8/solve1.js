@@ -23,6 +23,6 @@ const solve = (input) => {
 
 module.exports = {
   solve,
-  result: 0,
+  result: 17141,
   exampleResult: 6,
 };
