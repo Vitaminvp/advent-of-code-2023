@@ -222,3 +222,5 @@ Here are just the tiles that are _enclosed by the loop_ marked with `I`:
 In this last example, `10` tiles are enclosed by the loop.
 
 Figure out whether you have time to search for the nest by calculating the area within the loop. _How many tiles are enclosed by the loop?_
+
+Your puzzle answer was `303`.
